@@ -1,8 +1,8 @@
-Autor: Leonardo Araújo
+# List of market
 
-Nome: Carrinho de compras
+*Powered by Leonardo Araújo*
 
-Pequeno app mobile com react-native, desenvolvido para facilitar
-as compras do mês.
+Small mobile app with react-native, designed to make it easier
+the month's purchases.
 
-Obs: Utiliza useReducer.
+Obs: Use hook `useReducer`.
